@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="stepper">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAIAAAAgAAIAAIgAAAAEAA=</HashCode>
+      <FileName>stepper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="auto_trigger">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>auto_trigger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="udp_interface_auto_trigger">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>udp_interface_auto_trigger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gpio_interface_stepper">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gpio_interface_stepper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bcm2835_library">
+    <Position X="9.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>bcm2835_library.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
